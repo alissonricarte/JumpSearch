@@ -112,7 +112,7 @@ c1 * 1 + c2 * 1 + c3 * 1 + c4 * 1 + c5 * 1 + c6 * 1 + c7 * 1 + c8 * 1 + c9 * 1 =
         <a href="#">
           <img src="https://avatars.githubusercontent.com/u/144806270?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
             <sub>
-              <a href="https://github.com/alissonricarte"><b>Alisson ricarte</b></a>
+              <a href="https://github.com/alissonricarte"><b>Alisson Ricarte</b></a>
             </sub>
         </a>
       </td>
